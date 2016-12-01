@@ -17,7 +17,7 @@ Next, compile it writing typing
 
 Finally run it and test some sample data.
 
-	./factor < factoring.in
+	./factor < samples/factoring.in
 
 
 If you want to test it on specific numbers, you can simply run
