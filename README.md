@@ -33,7 +33,7 @@ If you want know the running time, replace `./factor` by `./factor 1`.
 
 If you want to contribute or if you have any question/comment please do not hesitate contacting.
 
-[Yassir Jedra](mailto:jedra@kth.se)
+[Yassir Jedra](mailto:jedra@kth.se) <br />
 [Lucas Rodés Guirao](mailto:hello@lucasrodesguirao.com)
 
 ## License
