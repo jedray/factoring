@@ -11,20 +11,19 @@ This project was started as an assignment for the [DD2440 Advanced Algorithms](h
 
 To run the code, first set the value of variable ALGORITHM in line 36 to the desired factoring algorithm. 
 Next, compile it writing typing 
-```
-make
-```
+
+	make
+
 
 Finally run it and test some sample data.
-```
-./factor < factoring.in
-```
+
+	./factor < factoring.in
+
 
 If you want to test it on specific numbers, you can simply run
-```
-python -c "pring NUMBER" | ./factor
-``
-`
+
+	python -c "pring NUMBER" | ./factor
+
 where NUMBER is the number to test.
 
 If you want know the running time, replace `./factor` by `./factor 1`.
